@@ -15,10 +15,8 @@ author: I cittadini di San Vincenzo
 
 navbar-links:
   Chi Siamo: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Come funziona: "funziona"
+  Chi siamo: "chisiamo"
 
 # --- Logo --- #
 
