@@ -171,9 +171,7 @@ staticman:
 repository : "manifestosanvincenzo/manifestosanvincenzo.github.io"
 branch     : master 
 endpoint   : "https://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/v3/entry/github/"
-#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
-#    siteKey  : # You need to apply for a site key on Google
-#    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
+
 
 # --- Misc --- #
 
